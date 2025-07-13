@@ -1,0 +1,5 @@
+# Project files
+publish
+obj/
+bin/debug/
+bin/release/
