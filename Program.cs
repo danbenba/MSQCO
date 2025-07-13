@@ -3,7 +3,7 @@ using System.IO;
 using System.Text.Json;
 using MySql.Data.MySqlClient;
 
-namespace MySqlConsoleClient
+namespace MSQCO
 {
     class Program
     {
