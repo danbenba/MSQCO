@@ -23,7 +23,7 @@ Une application console légère en C# qui se connecte à une base de données M
 
 ## Prérequis
 
-* [.NET SDK 7.0+](https://dotnet.microsoft.com/download)
+* [.NET SDK 9.0+](https://dotnet.microsoft.com/download)
 * Serveur MySQL accessible en réseau
 * Package NuGet : `MySql.Data` (installation via `dotnet add package MySql.Data`)
 
