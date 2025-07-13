@@ -162,6 +162,7 @@ namespace MySqlConsoleClient
             Console.ForegroundColor = ConsoleColor.Magenta;
             Console.WriteLine("=============================================");
             Console.WriteLine(" MySql Connection Tool - Created by danbenba ");
+            Console.WriteLine("            Copyright (c) 2025 Dany          ");
             Console.WriteLine("=============================================");
             Console.ResetColor();
         }
